@@ -1,0 +1,9 @@
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\Business.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\Business.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\obj\Debug\Business.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\obj\Debug\Business.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\DataAccess.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\Entities.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\DataAccess.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Business\bin\Debug\Entities.pdb

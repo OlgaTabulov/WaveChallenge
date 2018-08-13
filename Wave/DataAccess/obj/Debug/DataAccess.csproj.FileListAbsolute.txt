@@ -1,0 +1,7 @@
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\bin\Debug\DataAccess.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\bin\Debug\DataAccess.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\bin\Debug\Entities.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\bin\Debug\Entities.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\obj\Debug\DataAccess.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\DataAccess\obj\Debug\DataAccess.pdb

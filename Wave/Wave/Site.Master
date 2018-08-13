@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Wave.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Wave Timesheets</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" data-ajax="false" enctype="multipart/form-data">
+
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.4.js"></script> 
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+        <%--<script type="text/javascript" src="scripts/jquery-1.10.2.js" ></script>--%>
+        <%--    <script type="text/javascript" src="scripts/bootstrap.js" ></script>--%>
+        <script type="text/javascript" src="scripts/Common.js" ></script>
+        <link rel="stylesheet" type="text/css" href="css/Site.css" />
+
+        <%--    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />--%>
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+                
+    <div id="loadingDiv" style="width: 100%; text-align: center; visibility: hidden;">
+        <img alt="" src="../images/loader.gif" border="0" />
+    </div>
+    </form>
+</body>
+</html>

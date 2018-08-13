@@ -1,0 +1,5 @@
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Database\bin\Debug\Database.dacpac
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Database\bin\Debug\Database.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Database\bin\Debug\Database.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Database\obj\Debug\Database.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Database\obj\Debug\Database.pdb

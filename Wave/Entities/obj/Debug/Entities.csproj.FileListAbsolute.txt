@@ -1,0 +1,5 @@
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Entities\bin\Debug\Entities.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Entities\bin\Debug\Entities.pdb
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Entities\obj\Debug\Entities.dll
+c:\Users\Olga\documents\visual studio 2015\Projects\Wave\Entities\obj\Debug\Entities.pdb
